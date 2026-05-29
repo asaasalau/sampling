@@ -40,30 +40,27 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to examine the relationship between music taste and age. The main research question is asking whether the life experiences accumualated with age influences music taste.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+The target population are anyone who listens to music. The sampling frame are individuals who are attending or working at the University of Toronto. The sampling unit is responses per person in the populations described above. The observational units are the specific answers/responses of the respondents to the survey.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your current age group?
+2. Which is currently your most listened to genre?
+3. What genre was your favorite 5 years ago?
+4. What genre was your favorite 10 years ago?
+5. On a scale of 1-10, how much do you agree with the statement: my music taste has evolved over the years.
+6. In several sentences, explain your answer to #5.
+7. Do those who are similar in age to you share the same music taste?
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +68,21 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type - 
+2. Sample size - 50,000 units
+3. Target population - individuals 15 years of age and older living in the provinces/territories of Canada
+4. Sampling frame - individuals in the provinces/territories of Canada that has a landline and cell phone number
+5. Survey mode(s) - Electric questionaire or computer assisted telephone interviewing
+6. Timeline - sept 4 to dec 28, 2018
+7. Response rate - 41.9%
+8. Weights - Age-sex groups by province were weighted to show a proper representation of the target population.
+9. Data processing - Utilized the SSPE set of data processing as an automated system to clean up raw data. For example, verifying respondents age against their birth date and checking family relationships.
+10. Cleaning, imputation, etc - Imputations were made using donor records in which full or partial non-responses were compared with characteristics of potential donor records, and the donor record with the highest score was used to fill in missing information.
+11. Sources of error - Results were subject to both sampling and non-sampling error. Sampling error will typically show varaibility compared to a complete census - a bootrap method was used to estimate variability. Non sampling errors include those that arise from missing coverage or non-response. The former is due to differences between the target and survey populations (i.e households with no telephone). The latter includes those that choose not to respond.
+12. Limitations, known biases, etc - Households without telephones were excluded from the survey and this can introduce bias if it differs from the rest of the target population.Non response bias was adjusted through survey weights however a low response rate of 41.9% still signals the potential for non response bias to be a real concern. 
+13. Link to documentation and any additional sources used:
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
+https://www150.statcan.gc.ca/n1/en/catalogue/45250011
 ```
 
 ## Rubric
